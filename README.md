@@ -1,8 +1,11 @@
 <h1 align="center">Efficient Modeling of Long Temporal Contexts for Continuous Emotion Recognition</h1>
 
+<p align="center">
+  <img src="Speech.jpg" alt="Speech Understanding" width="500"/>
+</p>
+
 ---
 
-# Efficient Modeling of Long Temporal Contexts for Continuous Emotion Recognition
 
 **Course:** Speech Understanding (CS7460)  
 **Institute:** Indian Institute of Technology Jodhpur  
