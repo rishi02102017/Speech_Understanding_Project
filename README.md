@@ -46,17 +46,23 @@ Speech Understanding Project/
 ├── VoxCeleb1/
 │   ├── Speech_Project_VoxCeleb1.ipynb
 │   ├── README_VoxCeleb1.md
-│   └── [Plots + Numpy arrays]
-│
+│   └── Plots 
+│   └── X_vox1.npy
+│   └── arousal_vox1.npy
+│   └── valence_vox1.npy
+|  
 ├── VoxCeleb2/
 │   ├── Speech_Project_VoxCeleb2.ipynb
-│   └── [Raw evaluation + partial plots]
+│   └── README_VoxCeleb2.md
 │
 ├── LibriSpeech/
 │   ├── Speech_Project_LibriSpeech.ipynb
 │   ├── README_LibriSpeech.md
-│   └── [Plots + Numpy arrays]
-│
+│   └── plots
+│   └── valence_libri.npy
+│   └── arousal_libri.npy
+│   └── X_libri_.npy
+|
 └── Poster.pdf
 ```
 
