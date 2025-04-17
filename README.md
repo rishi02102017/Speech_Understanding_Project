@@ -1,4 +1,6 @@
-<h1 align="center"> Speech_Understanding_Project</h1>
+<h1 align="center">Efficient Modeling of Long Temporal Contexts for Continuous Emotion Recognition</h1>
+
+---
 
 # Efficient Modeling of Long Temporal Contexts for Continuous Emotion Recognition
 
